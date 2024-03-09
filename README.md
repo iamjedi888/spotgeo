@@ -1,19 +1,19 @@
-# Spot
+# OxESPORTS
 
-Take a virtual journey around the world with Spot.
+Take a virtual journey around the world with ESPORTS.
 
-<a href="https://apps.apple.com/us/app/spot-videos/id1564675926?utm_source=github&utm_campaign=static" target="blank"><img src="https://raw.githubusercontent.com/dshukertjr/spot/main/assets/readme/download_ios.svg" alt="Download from AppStore" height="96" /></a></span><a href='https://play.google.com/store/apps/details?id=app.spotvideo&utm_source=github&utm_campaign=static&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100" /></a>
+<a href="https://apps.ap/app/spot-videos/id1564675926?utm_source=github&utm_campaign=static" target="blank"><img src="https://raw.githubuntent.com/dshukertjr/spot/main/assets/readme/download_ios.svg" alt="Download from AppStore" height="96" /></a></span><a href='https://plagle.com/store/apps/details?id=app.spotvideo&utm_source=github&utm_campaign=static&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100" /></a>
 
-Spot is a geo-tagged video sharing app, meaning every video recorded in Spot is saved on a location. Anybody can scroll though the map and find the videos recorded in any location in the world.
+OxESPORTS is a geo-tagged video sharing app, meaning every video recorded in OxESPORTS is saved on a location. Anybody can scroll though the map and find the videos recorded in any location in the world.
 
 DISCOVER
-With Spot, you can view what is going on anywhere in the world. All videos in Spot are geo-tagged, meaning they are marked at the location they were recorded. That means if you want to take a look at what is going on in New York right now, you just go to NewYork within the app and view what people are posting. Same for LA, Paris, Tokyo or anywhere else in the world!
+With OxESPORTS, you can view what is going on anywhere in the world. All videos in OxESPORTS are geo-tagged, meaning they are marked at the location they were recorded. That means if you want to take a look at what is going on in New York right now, you just go to NewYork within the app and view what people are posting. Same for LA, Paris, Tokyo or anywhere else in the world!
 
 CREATE
-You can record Spot videos to let your everyone else know what is happening wherever you are. With our intuitive video recorder, you will be able to capture the moment easily.
+You can record OxESPORTS videos to let your everyone else know what is happening wherever you are. With our intuitive video recorder, you will be able to capture the moment easily.
 
 ENJOY
-How you utilise Spot is up to you! You may be able to check out the local festival without actual going there, discover hidden local amazing restaurants, or virtually visit your favorite city in the world. When you visit amazing places, don't forget to save that memory inside Spot so that the world can know about that place!
+How you utilise OxESPORTS is up to you! You may be able to check out the local gaming without actual going there, discover hidden local amazing restaurants, or virtually visit your favorite city in the world. When you visit amazing places, don't forget to save that memory inside Spot so that the world can know about that place!
 
 ![Spot Screenshots](https://github.com/dshukertjr/spot/blob/main/assets/readme/screenshots.png?raw=true)
 
